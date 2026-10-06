@@ -423,7 +423,7 @@ This is the type of approach I would like to contribute to in a **Financial Serv
 
 ## Interactive Dashboard
 
-**[Explore the Private Banking Client Onboarding Transformation Dashboard →](index.html)**
+**[Explore the Interactive Transformation Dashboard →](https://aishwaryamarkandu.github.io/private-banking-client-onboarding-transformation/)**
 
 The dashboard is standalone and can be deployed through GitHub Pages without requiring Streamlit or a Python runtime.
 
