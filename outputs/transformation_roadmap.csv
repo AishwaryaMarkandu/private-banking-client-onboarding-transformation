@@ -1,0 +1,6 @@
+phase,theme,key_actions,owner
+0–3 months,Stabilise,Establish KPI baseline; implement exception dashboard; clarify ownership and SLAs.,Operations / PMO
+3–6 months,Simplify,Redesign document intake; introduce completeness validation; reduce avoidable hand-offs.,Operations / Compliance
+6–12 months,Orchestrate,Implement risk-based routing and workflow orchestration across KYC and approval steps.,Technology / Operations
+12–18 months,Scale,Deploy reusable evidence repository and RM onboarding cockpit; embed continuous improvement.,Technology / Front Office
+18+ months,Optimise,Evaluate advanced automation and AI-assisted document / case processing with appropriate controls.,Transformation Office

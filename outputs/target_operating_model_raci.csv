@@ -1,0 +1,6 @@
+role,Client Intake,Document & KYC,Risk Assessment,Approval,Case Management
+Relationship Manager,R,R,C,I,R
+Client Onboarding Operations,A,R,R,R,C
+KYC / Compliance,C,A,R,R,C
+Risk,I,C,A,C,I
+Technology,C,C,C,A,R

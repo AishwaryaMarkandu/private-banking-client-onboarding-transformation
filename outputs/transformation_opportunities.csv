@@ -1,0 +1,7 @@
+opportunity,pain_point,value,feasibility,risk_reduction,client_experience,owner,horizon,priority_score,priority
+Digital document intake & completeness validation,High manual effort and rework during document collection,5,5,4,5,Client Onboarding / Operations,0–6 months,4.75,Accelerate
+KYC workflow orchestration,"Multiple hand-offs across KYC, compliance and approval activities",5,4,5,4,Operations / Compliance / Technology,3–9 months,4.6,Accelerate
+Risk-based onboarding routing,Low- and high-risk cases follow similar process paths too often,5,4,5,4,Compliance / Operations,3–9 months,4.6,Accelerate
+RM onboarding cockpit,Relationship managers lack a single view of case status and blockers,4,5,3,5,Front Office / Operations,0–6 months,4.15,Accelerate
+Exception & SLA management dashboard,Bottlenecks become visible too late,4,5,4,4,Operations / PMO,0–3 months,4.2,Accelerate
+Reusable KYC evidence & document repository,Repeated requests for information increase client friction,4,3,4,5,Operations / Technology,6–12 months,4.0,Prioritise

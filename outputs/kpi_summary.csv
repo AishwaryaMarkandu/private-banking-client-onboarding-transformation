@@ -1,0 +1,9 @@
+kpi,value
+Total onboarding cases,6000.0
+Onboarding completion rate,94.28
+SLA compliance rate,77.52
+Average cycle time (days),19.69
+Median cycle time (days),19.2
+Average RM effort (hours),2.87
+Cases with rework,64.75
+High-risk client share,14.7
