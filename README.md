@@ -2,7 +2,7 @@
 
 ### Redesigning KYC, client onboarding and operating models for a Luxembourg private banking business
 
-> **[Explore the Interactive Transformation Dashboard →](index.html)**
+> **[Explore the Interactive Transformation Dashboard →](https://aishwaryamarkandu.github.io/private-banking-client-onboarding-transformation/)**
 
 ---
 
